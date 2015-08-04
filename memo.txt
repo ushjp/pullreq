@@ -1,0 +1,8 @@
+
+## closes, connectsについて
+
+- PRのタイトルにcloses #42などと入れると、waffle.ioさんがin progressラベルを付けてカンバン移動してくれる
+- また、そのPRがissueに関連づけられる
+- で、「masterに」closes #42などと入ったコミットメッセージが入ると、そのissueがcloseされる
+- これであってる？
+
